@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/supabase-community/supabase-csharp/compare/v1.1.2...v1.2.0) (2025-10-01)
+
+
+### Features
+
+* add dependabot ([#202](https://github.com/supabase-community/supabase-csharp/issues/202)) ([e04cc98](https://github.com/supabase-community/supabase-csharp/commit/e04cc988b45c1d8ab29bbab41a5aac3c19877e81))
+
 ## [1.1.2](https://github.com/supabase-community/supabase-csharp/compare/v1.1.1...v1.1.2) (2025-07-07)
 
 
